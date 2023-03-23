@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Square Take Home Project</string>
+    <string name="dummy_employee_name">Justine Mason</string>
+    <string name="dummy_employee_team">Point of Sale</string>
+    <string name="dummy_employee_email">jmason.demo@squareup.com</string>
+    <string name="toolbar_employee_list_title">Employee List</string>
+    <string name="no_employees_empty_list_layout">No Employees</string>
+    <string name="pull_down_to_refresh_page">Pull-Down to refresh page</string>
+    <string name="empty_folder">Empty Folder</string>
+
+    <string name="empty_list_error_snackbar">List is empty</string>
+    <string name="data_corrupted_error_snackbar">Data corrupted</string>
+    <string name="network_error_snackbar">Network Error</string>
+    <string name="unknown_error_snackbar">Unknown Error</string>
+
+
+    Point of Sale
+</resources>
