@@ -46,6 +46,7 @@ The Robot Employee app uses the following libraries:
 - `Retrofit` for making API calls
 - `Room` for local database storage
 - `Kotlin Coroutines` for asynchronous programming
+- `Hilt` for Dependency Injection
 - `Flow` and `StateFlow` for reactive programming
 - `Picasso` for image loading
 - `Material Design` components for UI elements
